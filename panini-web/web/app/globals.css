@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-parchment-50 text-ink-800 antialiased;
+}
+
+/* Tipografía cómoda para sánscrito + español */
+.sanskrit {
+  font-feature-settings: "liga" 1;
+  letter-spacing: 0.01em;
+}
+
+/* Notas: tipografía ligeramente más compacta */
+.note-body {
+  @apply text-[0.925rem] leading-relaxed text-ink-700/90;
+}

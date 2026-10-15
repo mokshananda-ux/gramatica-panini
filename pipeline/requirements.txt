@@ -1,0 +1,5 @@
+python-docx>=1.1.0
+pydantic>=2.5.0
+psycopg[binary]>=3.3.6
+openpyxl>=3.1.0
+docxcompose>=2.2.0

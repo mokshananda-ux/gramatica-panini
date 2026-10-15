@@ -1,0 +1,12 @@
+{
+  "source_file": "/home/anselmo/PycharmProjects/panini-grammar/panini_docs/gramatica/gramatica_completa.docx",
+  "source_hash": "sha256:65a32fed8489ee82817f23bee779d6b8c16b8f8a7713efbb9d2b0d6d064999b9",
+  "started_at": "2026-10-14T03:03:55.161567",
+  "finished_at": "2026-10-14T03:04:14.053129",
+  "sutras_found": 3983,
+  "notes_found": 3979,
+  "cross_refs_found": 13189,
+  "tables_found": 0,
+  "warnings": [],
+  "status": "success"
+}
